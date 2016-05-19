@@ -13,6 +13,10 @@
     "@angular/platform-browser": "^2.1.0",
     "@angular/platform-browser-dynamic": "^2.1.0",
     "@angular/upgrade": "^2.1.0",
+    "@angular2-material/button": "^2.0.0-alpha.8-2",
+    "@angular2-material/checkbox": "^2.0.0-alpha.8-2",
+    "@angular2-material/core": "^2.0.0-alpha.8-2",
+    "@angular2-material/input": "^2.0.0-alpha.8-2",
     "angular": "^1.5.3",
     "angular-animate": "^1.5.3",
     "angular-aria": "^1.5.3",
@@ -35,8 +39,7 @@
     "ng-img-crop": "^0.2.0",
     "reflect-metadata": "^0.1.8",
     "rxjs": "^5.0.0-rc.1",
-    "underscore": "^1.8.3",
-    "zone.js": "^0.6.25"
+    "underscore": "^1.8.3"
   },
   "devDependencies": {
     "angular-mocks": "^1.5.3"
